@@ -1,5 +1,8 @@
 # 💫 About Me:
 Hi I'm Lanz William S. Daniel<br><br>
+I bake cakes <br><br>
+I Cook Sheken <br><br>
+123<br>
 
 
 # 💻 Tech Stack:
